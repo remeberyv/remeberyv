@@ -11,5 +11,3 @@ https://github.com/remeberyv/remeberyv/blob/main/README.md
 remeberyv/remeberyv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-https://dashboard.vlayer.xyz/applyForm
